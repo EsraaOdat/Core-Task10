@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "9eyZN23S+CjU+fxPkwbAupE3xeSJ4h9pgaL+QoWu9Fw=",
+  "Source": "Task3",
+  "BasePath": "_content/Task3",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Task3\\wwwroot",
+      "Source": "Task3",
+      "ContentRoot": "C:\\Users\\Orange\\Downloads\\CoreTask9-main\\CoreTask9-main\\backend\\Task3\\wwwroot\\",
+      "BasePath": "_content/Task3",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Orange\\Downloads\\CoreTask9-main\\CoreTask9-main\\backend\\Task3\\wwwroot\\images\\25.08.2024_15.59.05_REC.png",
+      "SourceId": "Task3",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Orange\\Downloads\\CoreTask9-main\\CoreTask9-main\\backend\\Task3\\wwwroot\\",
+      "BasePath": "_content/Task3",
+      "RelativePath": "images/25.08.2024_15.59.05_REC.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\25.08.2024_15.59.05_REC.png"
+    }
+  ]
+}
